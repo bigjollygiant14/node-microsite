@@ -1,0 +1,24 @@
+{
+  "name": "node-microsite",
+  "description": "Node Micro Site",
+  "main": "server.js",
+  "authors": [
+    "Will Jay"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "boilerplate",
+    "microsite"
+  ],
+  "homepage": "https://github.com/bigjollygiant14/node-microsite",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+  }
+}

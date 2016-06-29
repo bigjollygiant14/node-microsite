@@ -1,0 +1,35 @@
+{
+  "name": "node-microsite",
+  "main": "server.js",
+  "version": "0.0.1",
+  "description": "Node Micro Site",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bigjollygiant14/node-microsite"
+  },
+  "author": "Will Jay",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "bootstrap-sass": "^3.3.6",
+    "express": "^4.13.4",
+    "method-override": "^2.3.6"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.13.0",
+    "del": "^2.2.1",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-nodemon": "^2.1.0",
+    "gulp-sass": "^2.3.1",
+    "gulp-sass-glob": "^1.0.6",
+    "gulp-uglify": "^1.5.4",
+    "jasmine-core": "^2.4.1",
+    "karma": "^0.13.22",
+    "karma-jasmine": "^1.0.2",
+    "karma-phantomjs-launcher": "^1.0.0",
+    "merge-stream": "^1.0.0",
+    "phantomjs-prebuilt": "^2.1.7",
+    "run-sequence": "^1.2.1"
+  }
+}
